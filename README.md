@@ -11,3 +11,9 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Veri Türleri
 * Yorum Satırları
 * String Birleştirme
+
+# 2. Gün
+
+* Tür Dönüşümleri
+* Kullanıcıdan Girdi Alma
+* Aritmetik Operatörler
