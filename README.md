@@ -17,3 +17,11 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Tür Dönüşümleri
 * Kullanıcıdan Girdi Alma
 * Aritmetik Operatörler
+
+# 3.Gün
+
+* Karşılaştırma Operatörleri
+* Mantıksal Operatörler
+* if-else if- else
+* Alan Hesabı
+* Dört İşlem
