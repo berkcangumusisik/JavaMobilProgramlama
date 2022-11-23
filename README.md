@@ -25,3 +25,8 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * if-else if- else
 * Alan Hesabı
 * Dört İşlem
+
+# 4. Gün
+* Switch Case
+* Switch Case 4 İşlem
+* ToolBar
