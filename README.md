@@ -30,3 +30,13 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Switch Case
 * Switch Case 4 İşlem
 * ToolBar
+
+# 5.Gün
+
+- For Döngüsü
+- While Döngüsü
+- İsim Tekrar Uygulaması
+- Veri İşleme Uygulaması
+- Break
+- Continue
+- Tek Çift Sayı Bulma
