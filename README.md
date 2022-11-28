@@ -40,3 +40,13 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Break
 - Continue
 - Tek Çift Sayı Bulma
+
+# 6.Gün
+
+- Dizilere Giriş
+- Dizilere ve Döngülerin Kullanımı
+- Dizileri Sıralama
+- Diziler Konsol Girdisi
+- Karne Uygulaması
+- Math Sınıfı
+- Random Sayı Üretme
