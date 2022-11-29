@@ -50,3 +50,14 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Karne Uygulaması
 - Math Sınıfı
 - Random Sayı Üretme
+
+# 7.Gün
+
+- Sınıf Nedir?
+- Nesne Nedir?
+- Metod Oluşturma
+- Araba Analojisi
+- Otobüs Analojisi
+- Metodlar
+- Değişken Uzunlukta Parametreli Metod
+- Metodların Aşırı Yüklenmesi(Overloading)
