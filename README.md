@@ -61,3 +61,19 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Metodlar
 - Değişken Uzunlukta Parametreli Metod
 - Metodların Aşırı Yüklenmesi(Overloading)
+
+# 8.Gün
+
+* Constructor
+* Referans Tipler
+
+# 9.Gün
+
+* Sıcaklık Dönüşüm
+* Çevre Hesabı
+* Faktöriyel Hesabı
+* Harf Sayısı Bulma
+* İç Açı Toplamı
+* Dilekçe Taslak
+* Mesai Hesaplama
+* İnternet Ücreti Hesaplama
