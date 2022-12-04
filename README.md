@@ -77,3 +77,12 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Dilekçe Taslak
 * Mesai Hesaplama
 * İnternet Ücreti Hesaplama
+
+# 10.Gün
+
+* Paketler ve Import
+* Access Modifier Erişim
+* Kapsülleme GET - SET Metodu
+* Static Değişken ve Metodlar
+* Final Değişkenler ve Renkler Uygulaması
+* Composition
