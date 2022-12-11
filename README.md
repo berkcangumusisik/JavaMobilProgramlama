@@ -86,3 +86,9 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Static Değişken ve Metodlar
 * Final Değişkenler ve Renkler Uygulaması
 * Composition
+
+# 11.Gün
+
+- Kalıtım
+- Kalıtım Constructor İlişkisi
+- Override
