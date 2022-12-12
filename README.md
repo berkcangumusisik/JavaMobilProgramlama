@@ -92,3 +92,12 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Kalıtım
 - Kalıtım Constructor İlişkisi
 - Override
+
+# 12.Gün
+
+* Polymorphism
+* Kalıtım nesne dönüşümü
+* Okul Uygulaması
+* Equals
+* ToString
+* Interface

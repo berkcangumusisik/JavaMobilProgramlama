@@ -11,5 +11,16 @@ public class OverrideMain {
         kedi.sesCikar();
         hayvan.sesCikar();
         memeli.sesCikar();
+
+        Hayvan hayvan2 = new Kopek();
+        hayvan2.sesCikar();
     }
 }
+
+
+/*
+Polymorphism (Çok Biçimlilik)
+* Referans tipindeki bir değişken aynı tipten bir nesneyi gösterebilirken, alt sınıflardan da nesneleri gösterebilir.
+* Değişken tipi hangi metodun çağrılacağını belirler.
+* Animal animal = new Dog(); // Animal tipindeki animal değişkeni Dog tipindeki nesneyi gösteriyor.
+ */
