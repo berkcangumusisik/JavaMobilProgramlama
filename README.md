@@ -101,3 +101,9 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Equals
 * ToString
 * Interface
+
+# 13.Gün
+
+* String Nedir?
+* String Metotları
+* Tersten Yazdırma Uygulaması
