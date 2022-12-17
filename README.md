@@ -107,3 +107,10 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * String Nedir?
 * String Metotları
 * Tersten Yazdırma Uygulaması
+
+# 14.Gün
+
+* ArrayList
+* ArrayList Sıralatma
+* HashSet
+* ArrayList Uygulamaları
