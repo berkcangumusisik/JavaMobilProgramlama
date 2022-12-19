@@ -114,3 +114,15 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * ArrayList Sıralatma
 * HashSet
 * ArrayList Uygulamaları
+
+# 15.Gün
+
+* Proje Dizin Yapısı
+  * AndroidManifest.xml
+  * Res(Resource) Klasörü
+  * Layout Klasörü
+  * Drawable Klasörü
+  * Values Klasörü
+  * build.gradle
+* Android Monitor
+  * Logcat
