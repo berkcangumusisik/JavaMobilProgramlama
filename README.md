@@ -126,3 +126,8 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
   * build.gradle
 * Android Monitor
   * Logcat
+
+# 16.Gün
+
+* Android Tasarım
+* Linear Layout
